@@ -1,6 +1,9 @@
 div{
     border: 10px solid tomato;
     background-color: antiquewhite;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
 }
 h1{
     color: tomato;
